@@ -1,0 +1,7 @@
+
+k8sCronjob:
+  name: k8s-cronjob
+
+  image:
+    name: eduardopetrini/k8s-cronjob
+    tag: latest
